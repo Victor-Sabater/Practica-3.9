@@ -1,6 +1,22 @@
+header{
+    background-color: black;
+}
+
 h1.titulo{
     color: orange;
-   background-color: black;
-   text-align: center;
+    text-align: center;
+}
+p.enlaces{
+    color: black;
+    text-align: center;
+}
 
+hr{
+border-style: double;
+
+}
+
+img.logo{
+
+    float: left;
 }
